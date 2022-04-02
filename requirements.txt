@@ -4,6 +4,6 @@ Django==4.0.3
 djangorestframework==3.13.1
 joblib==1.1.0
 python-decouple==3.6
-
+django-cors-headers
 gunicorn
 psycopg2
